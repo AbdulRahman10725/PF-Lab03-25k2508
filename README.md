@@ -13,3 +13,7 @@
 - Text
 - Text
 - Text
+
+  **Bold Statement**
+  
+  _Italic Statement_
